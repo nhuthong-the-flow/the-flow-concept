@@ -1,0 +1,64 @@
+# local environment
+# VSCode
+.history
+.build
+.turbo
+.VSCodeCounter
+
+.scratch
+
+# IDEA - Temporary until properly configured
+.idea
+*.iml
+
+# Package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.webpack
+
+.*.sw*
+*.log
+
+# local env files
+.serverless-env
+.env.local
+.env.*.local*
+.env.*local
+frontends/*/.env
+packages/*/.env
+
+# Build directories
+dist
+.DS_Store
+generated
+
+# MacOS
+.DS_Store
+# Local Netlify folder
+.netlify
+
+# Logs
+/logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+.eslintcache
+
+
+# Next js project
+.pnp
+.pnp.js
+.next/
+out/
+build/
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
