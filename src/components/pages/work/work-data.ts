@@ -212,15 +212,6 @@ const TYPE_VFX: DataType[] = [
       'https://player.vimeo.com/progressive_redirect/playback/920421546/rendition/1440p/file.mp4?loc=external&signature=371d854a24c9bcf83e108a5786d509e0a45d9bad48ad255ae3d89edbaad9cef0',
   },
   {
-    title: 'Activated The Futuristic Controlling ',
-    tag: ['VFX'],
-    author: 'The flow',
-    imgSrc:
-      'https://i.vimeocdn.com/video/1810451942-0c39860be9010cf2e48fea1c292a1335be3f5bbe2bfb53da21c90ce0be63b147-d_1920x1080',
-    videoSrc:
-      'https://player.vimeo.com/progressive_redirect/playback/920426378/rendition/1080p/file.mp4?loc=external&signature=3d132fe916b3880f6310473da12f654c8642950736fabcf3952e71986a93c9e3',
-  },
-  {
     title: 'Forgotten Passion, Reawakened Glory',
     tag: ['3D'],
     author: 'The flow',
@@ -228,15 +219,6 @@ const TYPE_VFX: DataType[] = [
       'https://i.vimeocdn.com/video/1810445738-8c1eb1d18449f16a780fa0b9a653296546a0e996e2ea5a6f805e106c4e0db063-d_1920x1080',
     videoSrc:
       'https://player.vimeo.com/progressive_redirect/playback/950454908/rendition/1080p/file.mp4?loc=external&signature=33e0d5658b0eef2f452a151c475344dcad86ec25b018031998e999a2fd58be9c',
-  },
-  {
-    title: 'Controller Multiverse',
-    tag: ['3D'],
-    author: 'The flow',
-    imgSrc:
-      'https://i.vimeocdn.com/video/1810445538-a293e1d8fc71d5fc2cb4dbcdfb7633fe82a36571c43585120fe0b90fef1aed34-d_1920x1080',
-    videoSrc:
-      'https://player.vimeo.com/progressive_redirect/playback/950452744/rendition/1080p/file.mp4?loc=external&signature=a7e6edacc05ca24fafc9b70ee6e836952031d1f5d0f6f0e00213d0180fd4aada',
   },
   {
     title: 'Into the Multiverse',
